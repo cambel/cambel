@@ -1,3 +1,6 @@
+[![Years Badge](https://badges.pufler.dev/years/cambel)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/cambel)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/cambel/cambel)](https://badges.pufler.dev)
 ![View Counter](https://komarev.com/ghpvc/?username=cambel&color=brightgreen)
 [![GitHub User's stars](https://img.shields.io/github/stars/cambel?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=GitHub%20%E2%98%85%20Received&logo=github&style=flat-square)](https://github.com/cambel)
 
